@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="./mobile/src/assets/logo.png" alt="Project logo"></a>
+ <img height=200px src="./mobile/src/assets/logo.png" alt="Project logo"></a>
 </p>
 
 ## Table of Contents
